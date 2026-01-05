@@ -1,0 +1,5 @@
+{
+  "name": "Copy of BioSafe Guard",
+  "description": "A wearable sensor-based smart safety system dashboard for biomedical engineering monitoring. Simulates fall detection, immobility, and heart rate anomalies.",
+  "requestFramePermissions": []
+}
